@@ -1,0 +1,5 @@
+Scala Programming
+
+- Step-by-step guide to create a simple console-based application (powered by Akka toolkit)
+- Akka toolkit(specialized in scaled applications for multicore processing)
+- Scala Build Tool

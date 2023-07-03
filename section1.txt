@@ -1,0 +1,26 @@
+JVM
+
+- Java Class Library and Ecosystem
+- Web application scenarios
+
+Main concepts:
+- Just in time compiler
+- Type system
+- Garbage collector
+
+
+
+Why JVM?
+
+- Adaptative to market changes
+- Java Class Library - strong
+- unmatched Ecosystem
+
+
+Java Class Library (SE 8)
+
+Ecosystem
+
+- libraries
+- Tools
+

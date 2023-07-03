@@ -1,0 +1,5 @@
+Developing on JVM
+
+- Instalation procedure
+- Organization of JDK on major operating systems
+- Organization of Java Class Library (Class Path Setup)
